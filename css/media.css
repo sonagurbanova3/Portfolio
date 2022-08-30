@@ -84,6 +84,9 @@ z-index: 1;
     }
 }
 @media (max-width:956px){
+  .no-scroll {
+    overflow: hidden;
+  }
 .header-heading{
    font-size: 34px;
 }
