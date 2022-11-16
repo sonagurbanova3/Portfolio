@@ -173,6 +173,7 @@
 .project-img {
    margin-bottom: 40px;
    max-width: 490px;
+   width: 100%;
 }
 .project-title {
    font-size: 18px;
